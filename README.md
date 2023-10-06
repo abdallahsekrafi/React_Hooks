@@ -1,29 +1,40 @@
 # Getting Started
 
-Clone this project from https://github.com/abdallahsekrafi/React_Hooks
+GoMyCode Checkpoint Movies App
 
-## Instal NPM
+Instructions:
+Create the following components:
+ - MovieCard
+ - MovieList
+ - Filter ( title, rate)
+Every movie should have the following attributes: title, description, posterURL, rating
+
+The user should be:
+ - Able to add a new movie.
+ - Filter the movies with title/rating.
+
+# Instal NPM
 
 npm install
 
-### Instal used components
+# Instal used components
 
-   # React Bootstrap:
+   1) React Bootstrap:
 
 npm install react-bootstrap bootstrap
 
-   # Material UI:
+   2) Material UI:
 
 npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 
-#### Runs the app
+# Runs the app
 
 npm start
 
-##### Enjoy
+# Enjoy
 
 Open (http://localhost:3000) to view it in your browser.
 
-###### follow me
+# follow me
 
 Sekrafi Abdallah (in every social media)
